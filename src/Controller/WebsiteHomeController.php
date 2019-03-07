@@ -19,7 +19,7 @@ class WebsiteHomeController
 
         return new Response(
             '<html><body>
-                <h1>Website-Skeleton</h1>
+                <h1>Symfony Website Skeleton</h1>
                 <p>Lucky number: ' . $number . '</p>
             </body></html>'
         );
